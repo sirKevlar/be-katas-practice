@@ -1,0 +1,23 @@
+{
+  "name": "be-katas-practice",
+  "version": "1.0.0",
+  "description": "Practice repo for use with students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirKevlar/be-katas-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirKevlar/be-katas-practice/issues"
+  },
+  "homepage": "https://github.com/sirKevlar/be-katas-practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
